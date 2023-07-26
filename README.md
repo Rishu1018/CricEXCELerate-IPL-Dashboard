@@ -1,3 +1,3 @@
-# CricEXCELerate: IPL Dashboard - An IPL Analytics Cricket DASHBOARD
+# CricEXCELerate - IPL Analytics Cricket DASHBOARD
 
 
