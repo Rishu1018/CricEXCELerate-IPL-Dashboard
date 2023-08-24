@@ -4,7 +4,7 @@
 
 •	Developed a comprehensive overview section displaying essential statistics, encompassing 700+ match outcomes, Top 10 Venues, Player Of the Match, and 13 team data.
 
-•	Designed Key Point Indicators (KPIs) and utilized shapes/icons, and Excel formulae for improved data visualization and decision-making processes.
+•	Designed Key Performance Indicators (KPIs) and utilized shapes/icons, and Excel formulae for improved data visualization and decision-making processes.
 
 •	Proficiently cleaned and transformed raw data, ensuring data accuracy and reliability for dashboard development, leading to a 25% reduction in data-related errors.
 
@@ -65,7 +65,7 @@ Preview of a section of the cleaned datasheet
 ![image](https://github.com/Rishu1018/CricEXCELerate-IPL-Dashboard/assets/83905981/566adb30-eb3c-4c0e-9790-2ac18c2ca8c5)
 
 # 4. Data Processing
-This is more like extracting more details from the cleaned data to help with data analysis, for example, monthly and year column was added to help with analysis as the client requested for the seasonal trend in comparison to current and previous years.
+This is more like extracting more details from the cleaned data to help with data analysis, for example, the season column was added to help with analysis of the seasonal trend in comparison to current and previous years.
 
 Included columns
 
@@ -73,9 +73,6 @@ Included columns
 
 # 5. Data Analysis (using pivot tables and of course Excel formulas)
 Pivot tables and pivot charts were created across different sheets with respect to achieving the KPIs. Thereafter, a Data Analysis Sheet was created housing all the pivot tables earlier created for data analysis.
-
-Data Analysis Sheet
-
 
 # 6. Data Visualisation (using charts to show insights)
 Data visualization was done using pivot charts and tables.
@@ -102,4 +99,4 @@ The dashboard became interactive and dynamic by creating a filter panel using a 
 
 • Interactive Filters: Inclusion of interactive filters to enable users to focus on specific years, teams, players, or venues, enhancing the user experience.
 
-• 6. **Error-Free Data:** Ensuring that data is cleaned and transformed accurately to provide reliable insights, minimizing inaccuracies in decision-making.
+• Error-Free Data: Ensuring that data is cleaned and transformed accurately to provide reliable insights, minimizing inaccuracies in decision-making.
